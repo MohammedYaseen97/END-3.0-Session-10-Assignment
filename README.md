@@ -34,7 +34,7 @@ Procedure used for importing/linking dataset :
   
    - Used batch size of 32 instead of 64.
 
-3. Due to the ureasonable amount of training time for the dataset, used a subset of the dataset for the purpose of the assignment as shown in `filter_function()` (Accuracy affected).
+3. Due to the ureasonable amount of training time for the dataset, used a subset of the dataset for the purpose of the assignment as shown in `filter_function` (Accuracy affected).
 
 Group 21 members : <br />
 
